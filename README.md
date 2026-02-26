@@ -90,6 +90,9 @@ ________________________________________
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c913dfc8-c5f2-444f-86e6-a905a884dbb8" />
 
 
+
+<img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/c977e50a-5b39-47ca-8407-3b118b6ec5cc" />
+
 ________________________________________
 # Result
 The dual-stack IPv4 and IPv6 addressing scheme was successfully verified. Both addressing types achieved full connectivity between PC1 and PC2 through multiple routers, confirming correct configuration and routing.
